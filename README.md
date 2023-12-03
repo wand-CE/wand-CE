@@ -19,11 +19,11 @@ Welcome to my GitHub playground! 🚀
   <a target="_blank" href='https://www.linkedin.com/in/wanderson-soares-235ba819a/' rel="noopener noreferrer" style="margin-right:5px">
 	  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin"/>
   </a>
-  <a target="_blank" href='wanderson14117@gmail.com' rel="noopener noreferrer" style="margin-right:5px">
+  <a target="_blank" href='mailto:wanderson14117@gmail.com' rel="noopener noreferrer" style="margin-right:5px">
 	  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/>
   </a>
-  <a target="_blank" href='mailto:wanderson14117@gmail.com' rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Gmail" title="Gmail"/>
+  <a target="_blank" href='https://my-gitfolio.vercel.app/portfolio/wand-ce#projects' rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" title="Portfolio"/>
   </a>
 </div>
 
