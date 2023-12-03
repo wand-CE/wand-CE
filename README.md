@@ -22,15 +22,16 @@ Welcome to my GitHub playground! 🚀
   <a target="_blank" href='wanderson14117@gmail.com' rel="noopener noreferrer" style="margin-right:5px">
 	  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/>
   </a>
-  <a target="_blank" href='wanderson14117@gmail.com' rel="noopener noreferrer">
+  <a target="_blank" href='mailto:wanderson14117@gmail.com' rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Gmail" title="Gmail"/>
   </a>
 </div>
 
 ## 📈 My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wand-CE&show_icons=true&count_private=true)
-
+<div style="display: inline_block"><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wand-CE&show_icons=true&count_private=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wand-CE&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 Feel free to explore my repositories and leave a ⭐️ or contribute if you find something interesting!
 
