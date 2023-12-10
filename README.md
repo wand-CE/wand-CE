@@ -27,16 +27,6 @@ Welcome to my GitHub playground! 🚀
   </a>
 </div>
 
-## 📈 My GitHub Stats
-<div style="display: inline_block"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wand-CE&show_icons=true&count_private=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wand-CE&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 Feel free to explore my repositories and leave a ⭐️ or contribute if you find something interesting!
 
-Thanks for stopping by! 
-
-<img src="https://profile-counter.glitch.me/wand-ce/count.svg">
-
-
+Thanks for stopping by!!!
