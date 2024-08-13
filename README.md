@@ -5,7 +5,7 @@ Welcome to my GitHub playground! 🚀
 
 ### 🔧 Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=python,javascript,django,selenium,docker,mysql,aws&theme=light)
+![My Skills](https://skillicons.dev/icons?i=python,flutter,javascript,django,selenium,docker,mysql,aws&theme=light)
 
 ### 📫 Let's Connect
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-soares-235ba819a/)
